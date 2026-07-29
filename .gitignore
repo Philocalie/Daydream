@@ -1,0 +1,10 @@
+﻿# Obsidian vault
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.trash/
